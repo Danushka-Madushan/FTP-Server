@@ -1,0 +1,10 @@
+(01) Do not Delete Assets Directory or Json file in it
+
+(02) If You Delete it Make [settings.json] file on it and Past Below Code in it
+
+	{
+        "PASSKEY": "",
+        "UNIQUE_KEY": ""
+	}
+
+(03) Doing this Will Fix All System/Resource/Passkey Issues
